@@ -1,3 +1,3 @@
 Hello
 
-<img src="https://karolis.dev/counter/github.com-nikamura" width="200"/>
+![Visitor Count](https://karolis.dev/counter/gh-nikamura)
